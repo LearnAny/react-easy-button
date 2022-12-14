@@ -1,0 +1,24 @@
+{
+  "name": "react-easy-button",
+  "version": "1.0.0",
+  "description": "Simple react component to provide beautiful button UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LearnAny/react-easy-button.git"
+  },
+  "keywords": [
+    "react",
+    "button",
+    "component"
+  ],
+  "author": "Priyanka Pal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LearnAny/react-easy-button/issues"
+  },
+  "homepage": "https://github.com/LearnAny/react-easy-button#readme"
+}
