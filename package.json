@@ -1,5 +1,5 @@
 {
-  "name": "react-easybutton",
+  "name": "@priyanka_pal/react-easybutton",
   "version": "1.0.0",
   "description": "Simple react component to provide beautiful button UI",
   "main": "index.js",
