@@ -1,7 +1,7 @@
 import React from "react";
 import "./css/index.css"
 
-function EasyButton({
+export default function EasyButton({
   type = "submit",
   children,
   color,
@@ -71,4 +71,4 @@ function EasyButton({
   );
 }
 
-module.exports.EasyButton = EasyButton
+
