@@ -1,6 +1,6 @@
 # react-easy-button
 
-A simple react button component which can be use to add anywhere in react application.
+A simple react button component which can be use to add anywhere in react application without investing on styling.
 
 ## Installation and usage
 
