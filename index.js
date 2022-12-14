@@ -1,7 +1,7 @@
 import React from "react";
 import "./css/index.css"
 
-export default function EasyButton({
+function EasyButton({
   type = "submit",
   children,
   color,
