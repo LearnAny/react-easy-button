@@ -19,7 +19,7 @@ import EasyButton from "easy-button";
 export default function App() {
 
   return (
-      <EasyButton type="button" color="primary">Your button content</EasyButton>
+      <EasyButton>Your button content</EasyButton>
   );
 }
 ```
