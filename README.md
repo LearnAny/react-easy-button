@@ -7,14 +7,14 @@ A simple react button component which can be use to add anywhere in react applic
 To use this module, install it:
 
 ```bash
-npm install EasyButton
+npm i @priyanka_pal/react-easybutton
 ```
 
 Then use it in your app:
 
 ```js
 import React from 'react';
-import { EasyButton } from "EasyButton";
+import { EasyButton } from "@priyanka_pal/react-easybutton";
 
 export default function App() {
 
