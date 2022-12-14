@@ -29,6 +29,6 @@ export default function App() {
 Props | Description | Value | Default value | Is required 
 --- | --- | --- | --- | ---
 type | type of button | submit or button | submit | false
-color | color of the button | primary,secondary,success,warning,danger | primary | true
+color | color of the button | primary,secondary,success,warning,danger | primary | false
 outlined | make outline button | true or false | false | false
 flat | add button shadow | true or false | true | false
