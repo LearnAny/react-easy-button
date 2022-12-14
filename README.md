@@ -14,7 +14,7 @@ Then use it in your app:
 
 ```js
 import React from 'react';
-import EasyButton from "EasyButton";
+import { EasyButton } from "EasyButton";
 
 export default function App() {
 
