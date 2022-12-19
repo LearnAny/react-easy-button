@@ -1,6 +1,6 @@
 {
   "name": "@priyanka_pal/react-easybutton",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple react component to provide beautiful button UI",
   "main": "index.jsx",
   "scripts": {
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/LearnAny/react-easy-button/issues"
   },
-  "homepage": "https://github.com/LearnAny/react-easy-button#readme"
+  "homepage": "https://github.com/LearnAny/react-easy-button#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
